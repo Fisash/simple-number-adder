@@ -1,0 +1,35 @@
+p{
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+button{
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    padding: 5px;
+    background-color: rgb(70, 81, 128);
+    color: aliceblue;
+    border-radius: 5px;
+}
+h1{
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-style: oblique;
+}
+img{
+    border-radius: 7px;
+}
+.small{
+    font-size: 9px;
+}
+.n{
+    font-size: 18px;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+.panel1{
+    background-color:rgb(160, 175, 190);
+    padding: 8px;
+    border-radius: 8px;
+}
+.parentpanel{
+    background-color:rgb(225, 229, 233);
+    padding: 8px;
+    border-radius: 8px;
+}
